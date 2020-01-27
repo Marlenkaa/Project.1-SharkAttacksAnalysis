@@ -1,4 +1,4 @@
-# SharkProject
+# Shark Attacks Analysis
 
 ### ANALISIS DE TENDENCIAS EN ATAQUES DE TIBURON
 
@@ -17,8 +17,9 @@ Los pasos que se han seguido para el análisis de esto proyecto son:
 
 #### PASO 3: Análisis
 
-    Para una mejor visualización de las conclusiones, se hace uso de representaciones gráficas que muestran 
-    la tendencia de ataques según el mes del año, así cómo el número de ataques dentro de un intervalo temporal.
+    Para una mejor visualización de las conclusiones, se hace uso de representaciones gráficas que 
+    muestran la tendencia de ataques según el mes del año, así cómo el número de ataques dentro de un 
+    intervalo temporal.
 
     Además, se muestran los países que más víctimas totales registran, analizando las causas y consecuencias
     en los dos países más representativos.
