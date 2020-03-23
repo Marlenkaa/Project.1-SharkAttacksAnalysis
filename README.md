@@ -18,15 +18,15 @@ Here we can find a script with functions that we will need to use in Shark_Attac
 ### Shark_Attack_Analysis.ipynb
 This is the main of this project. All data cleaning and analysis is made in this notebook. Steps followed:
 
-STEP 1: Data Inspection
+*STEP 1: Data Inspection*
 
 Check what kind of data we have available, cleaning and analysis complexity, duplicated data, percentage of null values and data reliability.
 
-STEP 2: Data cleaning
+*STEP 2: Data cleaning*
 
 Once we know which data we want to keep, we proceed to make the hole data cleaning process to output a tidy csv, which will be used for further analysis.
 
-STEP 3: Analysis and Data Visualization
+*STEP 3: Analysis and Data Visualization*
 
 The conclusions we have been able to get are:
 
