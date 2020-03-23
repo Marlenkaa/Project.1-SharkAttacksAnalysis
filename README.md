@@ -26,7 +26,7 @@ Once we know which data we want to keep, we proceed to make the hole data cleani
 
 STEP 3: Analysis and Data Visualization
 
-The conclusions we have been able to get are:
+The conclusions we have been able to get are:https://translate.google.es/#view=home&op=translate&sl=es&tl=en&text=mejoras
 
 - The highest number of attacks are registered between 2001 and 2016. This is probably due to the increasing documentation work over the years.
 - Most attacks occur in summer. Countries above Equator line suffer more shark attacks in july, august and september, while countries underneath Equator line have most cases in december and january.
