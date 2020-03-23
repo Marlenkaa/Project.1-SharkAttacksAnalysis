@@ -1,6 +1,6 @@
 # Shark Attacks Analysis
 
-![alt text](https://raw.githubusercontent.com/Shurlena/Project.1-SharkAttacksAnalysis/master/images/sharks.jpg =250x)
+<img src="https://raw.githubusercontent.com/Shurlena/Project.1-SharkAttacksAnalysis/master/images/sharks.jpg" width="250">
 
 The goal of this project is to analyze the data collected about attacks arisen around the globe by sharks. The analysis is comprehended between 1800 and 2016, looking for season and year trends as well as the countries most affected.
 
